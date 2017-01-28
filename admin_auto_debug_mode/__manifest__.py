@@ -7,7 +7,7 @@
     'author' : 'karizma.ma',
     'website' : 'http://www.karizma.ma',
     "category": "Tools",
-    'summary': 'Backups',
+    'summary': 'Auto developer-Mode for admin user',
     'description': """
 """,
     'depends' : ['base'],
